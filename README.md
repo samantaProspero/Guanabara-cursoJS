@@ -1,4 +1,4 @@
-# Site Glassses
+# Curso Básico de JavaScript
 
 Atividade realizada durante o curso de JavaScript do Curso em Vídeo, ministrado pelo professor Gustavo Guanabara.  
 
